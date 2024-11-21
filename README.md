@@ -24,6 +24,8 @@ Este proyecto analiza los factores que influyen en el comportamiento de los clie
 - ⁠data/: Carpeta vacía destinada a los datos originales.
 - html/: Notebooks convertidos a formato HTML.
 - notebooks/: Notebooks originales en formato ⁠ .ipynb ⁠.
+- env/: requirements.txt
+- src/: los notebooks guardados en .py
 
 
 ## Repositorio en GitHub
